@@ -67,13 +67,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="about.html" />
     <Content Include="Aboutus.aspx" />
     <Content Include="Activities.aspx" />
     <Content Include="Addmission.aspx" />
-    <Content Include="contact.html" />
     <Content Include="contactus.aspx" />
-    <Content Include="courses.html" />
     <Content Include="css\animate.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\custom-fonts.css" />
@@ -89,7 +86,6 @@
     <Content Include="fonts\customicon\Icons.svg" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Gallery.aspx" />
-    <Content Include="gallery.html" />
     <Content Include="img\avatar.png" />
     <Content Include="img\bg_direction_nav.png" />
     <Content Include="img\glyphicons-halflings-white.png" />
@@ -116,7 +112,6 @@
     <Content Include="img\works\7.jpg" />
     <Content Include="img\works\8.jpg" />
     <Content Include="index.aspx" />
-    <Content Include="index.html" />
     <Content Include="js\animate.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\custom.js" />
